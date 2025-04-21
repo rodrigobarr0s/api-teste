@@ -31,6 +31,11 @@ dependencies {
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 }
 
+tasks.jar {
+	manifest {
+		attributes["Main-Class"] = "com.cloud_api_starter.Application"
+	}
+}
 tasks.named('test') {
 	useJUnitPlatform()
 }

@@ -1,0 +1,1 @@
+web: java -jar build/libs/cloud-api-starter-0.0.1-SNAPSHOT.jar
