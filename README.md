@@ -80,7 +80,7 @@ java -jar build/libs/cloud-bank-api-0.0.1-SNAPSHOT.jar
 ## 🌐 **Implantação em Produção**
 A aplicação está implantada em produção utilizando o Railway. Você pode acessar a API e sua documentação interativa no Swagger a partir do seguinte link:
 
-- **Documentação Swagger:** [https://cloud-api-starter-production.up.railway.app/swagger-ui/index.html](https://cloud-api-starter-production.up.railway.app/swagger-ui/index.html)
+- **Documentação Swagger:** [https://cloud-bank-api-production.up.railway.app/swagger-ui/index.html](https://cloud-bank-api-production.up.railway.app/swagger-ui/index.html)
 
 ---
 
@@ -188,4 +188,4 @@ Este projeto está licenciado sob a [MIT License](https://github.com/rodrigobarr
 ## 📬 **Contato**
 - **Autor:** Rodrigo Barros
 - **GitHub:** [rodrigobarr0s](https://github.com/rodrigobarr0s)
-- **API em Produção:** [https://cloud-api-starter-production.up.railway.app](https://cloud-api-starter-production.up.railway.app)
+- **API em Produção:** [https://cloud-bank-api-production.up.railway.app](https://cloud-bank-api-production.up.railway.app)
